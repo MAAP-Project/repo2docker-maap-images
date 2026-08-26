@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - isce3=0.25.17
+  - libgdal-core
+  - libgdal-hdf5
+  - pip
+  - pip:
+    - maap-py
